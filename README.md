@@ -91,18 +91,21 @@ My experience spans **FinTech, Legal, Healthcare, Retail, and Hospitality**, wit
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&hide_rank=true&hide=issues&theme=transparent&border_radius=12"
+    src="https://github-readme-stats.vercel.app/api?username=OleksandrBuhaienko-Personal
+&show_icons=true&include_all_commits=true&hide_rank=true&hide=issues&theme=transparent&border_radius=12"
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=transparent&border_radius=12"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrBuhaienko-Personal
+&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=transparent&border_radius=12"
     height="180"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=false&border_radius=12"
+    src="https://github-readme-streak-stats.demolab.com/?user=OleksandrBuhaienko-Personal
+&theme=transparent&hide_border=false&border_radius=12"
     height="180"
   />
 </p>
@@ -112,9 +115,11 @@ My experience spans **FinTech, Legal, Healthcare, Retail, and Hospitality**, wit
 ## 📈 Recent Activity
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/OleksandrBuhaienko-Personal
+">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&area=true"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=OleksandrBuhaienko-Personal
+&theme=github-compact&hide_border=true&area=true"
       width="95%"
     />
   </a>
