@@ -1,10 +1,10 @@
-# Hey, I'm Buhaienko Oleksandr 👋
+# Hey, I'm Oleksandr Buhaienko 👋
 
 ### Full Stack .NET Software Engineer
 
-I build scalable backend systems, cloud-native applications, and modern web interfaces.
+I build scalable, maintainable, and reliable **.NET applications** together with responsive user interfaces using **React (Redux) and Angular**.
 
-My main stack includes **C# / .NET, ASP.NET Core, React, Angular, and AWS**, with a strong focus on clean architecture, APIs, distributed systems, and cloud infrastructure.
+My experience spans **FinTech, Legal, Healthcare, Retail, and Hospitality**, with a strong focus on backend development, AWS-based solutions, API development, database design, and maintainable application architecture.
 
 <br>
 
@@ -15,49 +15,75 @@ My main stack includes **C# / .NET, ASP.NET Core, React, Angular, and AWS**, wit
 
 ## 🧑‍💻 About Me
 
-* 💻 Full Stack **.NET Engineer**
-* ☁️ Working with **AWS and cloud-native architectures**
-* 🧩 Backend: **C#, .NET, ASP.NET Core, REST APIs, gRPC**
-* ⚛️ Frontend: **React, Angular, Redux**
-* 🗄️ Databases: **SQL Server, DynamoDB, PostrgeSQL** 
-* 🚀 Interested in **distributed systems, serverless architectures, CI/CD and cloud infrastructure**
-* 🧠 I care about maintainable code, practical architecture and solving real engineering problems
+* 💻 Full Stack **.NET Software Engineer**
+* 🧩 Backend development with **C#, .NET, ASP.NET Core, MVC, Entity Framework, FastEndpoints, REST APIs**
+* ⚛️ Frontend development with **Angular, React, Redux Toolkit, TypeScript**
+* ☁️ AWS development with **Lambda, SQS, SNS, SES, S3, DynamoDB, API Gateway, RDS, VPC, CloudWatch, EventBridge, Glue, CDK**
+* 🗄️ Experience with **SQL Server, PostgreSQL, and DynamoDB**
+* 🏗️ Experience with **DDD, Clean Architecture, N-tier Architecture, Microservices, and REST APIs**
+* 🔧 Focused on maintainable code, system reliability, API design, database optimization, and practical solutions
+* 🌍 Experience across **FinTech, Legal, Healthcare, Retail, and Hospitality**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
+### Languages & Platforms
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=csharp\&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=database\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![XAML](https://img.shields.io/badge/XAML-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+
+### Backend & Frameworks
+
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square\&logo=grpc\&logoColor=white)
+![FastEndpoints](https://img.shields.io/badge/FastEndpoints-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![MediatR](https://img.shields.io/badge/MediatR-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![AutoMapper](https://img.shields.io/badge/AutoMapper-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![FluentValidation](https://img.shields.io/badge/FluentValidation-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=angular\&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square\&logo=redux\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat-square\&logo=redux\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
 
-### Cloud & DevOps
+### AWS & Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square\&logo=awslambda\&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square\&logo=amazondynamodb\&logoColor=white)
-![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square\&logo=amazons3\&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square\&logo=awslambda\&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=flat-square\&logo=amazons3\&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/SQS-FF4F00?style=flat-square\&logo=amazonsqs\&logoColor=white)
+![Amazon SNS](https://img.shields.io/badge/SNS-FF4F00?style=flat-square\&logo=amazonsns\&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square\&logo=amazondynamodb\&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F00?style=flat-square\&logo=amazonapigateway\&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=flat-square\&logo=amazonaws\&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square\&logo=amazoncloudwatch\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square\&logo=gitlab\&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
+![AWS CloudFormation](https://img.shields.io/badge/CloudFormation-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
 
 ### Databases
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square\&logo=amazondynamodb\&logoColor=white)
+
+### Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![NuGet](https://img.shields.io/badge/NuGet-004880?style=flat-square\&logo=nuget\&logoColor=white)
+![GitHub Packages](https://img.shields.io/badge/GitHub_Packages-181717?style=flat-square\&logo=github\&logoColor=white)
+![GitLab Packages](https://img.shields.io/badge/GitLab_Packages-FC6D26?style=flat-square\&logo=gitlab\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square\&logo=swagger\&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
 
 ---
 
@@ -96,64 +122,95 @@ My main stack includes **C# / .NET, ASP.NET Core, React, Angular, and AWS**, wit
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects & Work
 
-### ⭐ Project Name
+### Modular Project Starter
 
-Short description of the project and the engineering problem it solves.
+A framework for automating module registration and project setup with a strong boilerplate foundation.
 
-**Tech:** `.NET` · `AWS` · `DynamoDB` · `React`
+Designed and integrated AWS service modules including **S3, SES, and SNS**, with dependency injection and configuration-based setup. Contributed to a modular ecosystem with a core runner module to simplify microservice development.
 
-[Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY)
-
-### ⭐ Project Name
-
-Short description of another project, focusing on architecture, scale, automation, or interesting technical challenges.
-
-**Tech:** `.NET` · `AWS Lambda` · `S3` · `SQS`
-
-[Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY)
-
-### ⭐ Project Name
-
-Short description of a project that demonstrates frontend/full-stack capabilities.
-
-**Tech:** `React` · `TypeScript` · `.NET` · `SQL Server`
-
-[Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY)
+**Tech:** `.NET` · `AWS S3` · `AWS SES` · `AWS SNS` · `Dependency Injection` · `Microservices`
 
 ---
 
-## 🎯 What I Like Working On
+### Corporate Billing System
+
+A **FinTech** serverless system supporting invoice generation, mailing, notifications, and employee management.
+
+Worked across both backend and frontend, delivering core features and system improvements while improving maintainability, scalability, and documentation.
+
+Implemented retry logic for invoice generation and email workflows, reducing the number of Lambda invocations by **30%**.
+
+**Tech:** `.NET` · `AWS Lambda` · `Serverless` · `AWS` · `Angular` · `React`
+
+---
+
+### QR Menu Integration Platform
+
+A **Hospitality** backend platform responsible for synchronizing restaurant menu data from a Data Warehouse with a third-party QR menu platform.
+
+Maintained and supported the synchronization pipeline, investigated production issues, improved error handling and API integration stability, and maintained data persistence and caching using **Amazon DynamoDB**.
+
+Designed and implemented a **DynamoDB Single Table Design** with **Global Secondary Indexes**, reducing query execution time from several minutes to hundreds of milliseconds.
+
+**Tech:** `.NET` · `AWS Lambda` · `DynamoDB` · `API Development` · `Single Table Design` · `GSI`
+
+---
+
+### Customer Feedback Processing Platform
+
+A **Retail** platform for managing survey campaigns and processing customer feedback for a large retail network.
+
+Worked on backend and frontend functionality, migrated the system to a new .NET version, improved survey result validation and ingestion reliability, and strengthened input validation against common injection risks.
+
+Designed and implemented an automated **DynamoDB archival pipeline** using **AWS Glue, PySpark, Amazon S3, AWS Lambda, and AWS CDK**, including export, transformation, validation, manifest generation, and cleanup stages.
+
+The pipeline transforms raw JSON data into partitioned **Parquet** archives and stores long-term data using **S3 Intelligent-Tiering / Glacier Deep Archive**.
+
+**Tech:** `.NET` · `DynamoDB` · `AWS Glue` · `PySpark` · `Amazon S3` · `AWS Lambda` · `AWS CDK`
+
+---
+
+## 🎯 Areas of Experience
 
 ```text
-Cloud-native systems      ████████████████████
-Backend engineering       ███████████████████
-AWS / Serverless          ██████████████████
-Distributed systems       █████████████████
-Frontend engineering      ███████████████
-DevOps / CI/CD            ██████████████
+.NET / C#                 ████████████████████
+AWS Development           ████████████████████
+Backend Engineering       ████████████████████
+API Development           ███████████████████
+Database Design           ██████████████████
+React / Angular           ████████████████
+Serverless Applications   ████████████████
+System Architecture       ███████████████
 ```
 
 ---
 
-## 📚 Currently Interested In
+## 🌍 Industry Experience
 
-`Cloud Architecture` · `AWS` · `Distributed Systems` · `Serverless` · `System Design` · `.NET` · `Performance` · `DevOps`
+`FinTech` · `Legal` · `Healthcare` · `Retail` · `Hospitality`
+
+---
+
+## 🎓 Education
+
+**Kyiv National Aviation University**
+Bachelor's Degree · Software Engineering · 2020–2024
+
+**Rivne IT STEP Academy**
+Software Engineering · 2017–2020
+
+**Main Academy**
+.NET Engineer · 2022–2023
 
 ---
 
 ## 📫 Contact
 
-Feel free to reach out for interesting engineering opportunities, collaboration, or technical discussions.
-
-**LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN
-
-**Email:** YOUR_EMAIL
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/olexandr-buhaienko-717123208)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:soulofdeveloper0911@gmail.com)
 
 <p align="center">
-  <i>Building software, learning continuously, and shipping things that matter.</i>
+  <i>Building scalable and maintainable software with .NET and AWS.</i>
 </p>
-
