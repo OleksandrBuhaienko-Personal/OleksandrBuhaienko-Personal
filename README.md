@@ -179,16 +179,15 @@ The pipeline transforms raw JSON data into partitioned **Parquet** archives and 
 
 ## 🎯 Areas of Experience
 
-```text
-.NET / C#                 ████████████████████
-AWS Development           ████████████████████
-Backend Engineering       ████████████████████
-API Development           ███████████████████
-Database Design           ██████████████████
-React / Angular           ████████████████
-Serverless Applications   ████████████████
-System Architecture       ███████████████
-```
+* **.NET / C#**
+* **AWS Development**
+* **Backend Engineering**
+* **API Development**
+* **Database Design**
+* **React / Angular**
+* **Serverless Applications**
+* **System Architecture**
+
 
 ---
 
