@@ -1,4 +1,4 @@
-# Hey, I'm YOUR_NAME 👋
+# Hey, I'm Buhaienko Oleksandr 👋
 
 ### Full Stack .NET Software Engineer
 
@@ -8,9 +8,8 @@ My main stack includes **C# / .NET, ASP.NET Core, React, Angular, and AWS**, wit
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/olexandr-buhaienko-717123208)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:soulofdeveloper0911@gmail.com)
 
 ---
 
@@ -20,7 +19,7 @@ My main stack includes **C# / .NET, ASP.NET Core, React, Angular, and AWS**, wit
 * ☁️ Working with **AWS and cloud-native architectures**
 * 🧩 Backend: **C#, .NET, ASP.NET Core, REST APIs, gRPC**
 * ⚛️ Frontend: **React, Angular, Redux**
-* 🗄️ Databases: **SQL Server, DynamoDB**
+* 🗄️ Databases: **SQL Server, DynamoDB, PostrgeSQL** 
 * 🚀 Interested in **distributed systems, serverless architectures, CI/CD and cloud infrastructure**
 * 🧠 I care about maintainable code, practical architecture and solving real engineering problems
 
